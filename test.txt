@@ -1,0 +1,6 @@
+- foo*
+  - bar*
+    - baz
+    - other thing here*
+- other
+  - stuff
